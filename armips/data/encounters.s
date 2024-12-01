@@ -2621,7 +2621,7 @@ walklevels 12, 12, 12, 12, 13, 13, 13, 13, 13, 15, 13, 15
 // morning encounter slots
 pokemon SPECIES_PANCHAM
 pokemon SPECIES_ROCKRUFF
-pokemon SPECIES_PAMCHAM
+pokemon SPECIES_PANCHAM
 pokemon SPECIES_ROCKRUFF
 pokemon SPECIES_ORICORIO
 pokemon SPECIES_ORICORIO
@@ -2635,7 +2635,7 @@ pokemon SPECIES_ORICORIO
 // day encounter slots
 pokemon SPECIES_PANCHAM
 pokemon SPECIES_ROCKRUFF
-pokemon SPECIES_PAMCHAM
+pokemon SPECIES_PANCHAM
 pokemon SPECIES_ROCKRUFF
 pokemon SPECIES_ORICORIO
 pokemon SPECIES_ORICORIO
