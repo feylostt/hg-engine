@@ -5,6 +5,7 @@ Cheetos
 - replace trainerdata 11, "Mickey"
 - "I blame wolfe for this loss. Happy birthday Lily!"
 - "lol world champ difference"
+- CLASS_PKMN_TRAINER_15
 
 Pengin&Priger
 - double battle
@@ -19,19 +20,24 @@ Pengin&Priger
 - Double only 1 pokemon 1: Pengin: I feel bad, I'm sorry for this...
 - Double only 1 pokemon 2: Priger: This will be easy
 - boss battle beside the mew truck after defeating the champion
+- CLASS_RIVALS
 
 Leo
 - replace trainerdata 40, "Mickey"
+- CLASS_PKMN_TRAINER_16
 
 Lehoe
 - replace trainerdata 63, "Mickey"
+- CLASS_PKMN_TRAINER_17
 
 Ike
 - replace trainerdata 87. "Mickey"
+- CLASS_PKMN_TRAINER_18
 
 Godzilla
 - replace trainerdata 88, "Mickey"
 - pokemaniac sprite
+- CLASS_PKMN_TRAINER_19
 
 Gooner (micah)
 - replace gym leader ???
@@ -40,6 +46,7 @@ Gooner (micah)
 
 ezlothecap
 - replace trainderdata 105, "Mickey"
+- CLASS_PKMN_TRAINER_20
 
 jabberwock
 - replace bug gym
@@ -47,24 +54,44 @@ jabberwock
 
 mikan
 - replace trainerdata 33, "Jasmine" and trainerdata 717, "Jasmine"
+- dialogue found in text archive 606
+- rematch dialogue in text archive 533
+- erika dialogue in text archive 491
 
 leah
-- replace trainerdata 106, "Mickey"
+- replace trainerdata 106, "Mickey" or Lance or Clair
 - akari sprite
+- double battle
+- CLASS_PKMN_TRAINER_8 (Dawn Sprite)
 
 azmi
 - replace trainerdata 107, "Mickey"
 - beauty gen 2 sprite
 - "who is this diva?"
 - "Why must we put two queens against each other?"
+- CLASS_PKMN_TRAINER_21
 
-add after line 526 of armips/include/constants.s 
-.equ CLASS_CHEETOS, 129
-.equ CLASS_RIVALS, 130
-.equ CLASS_LEO, 131
-.equ CLASS_LEHOE, 132
-.equ CLASS_IKE, 133
-.equ CLASS_GODZILLA, 134
-.equ CLASS_EZLOTHECAP, 135
-.equ CLASS_LEAH, 136
-.equ CLASS_AZMI, 137
+CYNTHIA
+- replace trainerdata 138, "Mickey"
+- recreate the b/w encounter
+- CLASS_CHAMPION_1
+
+### Adding Trainers:
+add a CLASS CONSTANT to armips/include/constants.s
+
+increment bytereplacement values
+MainMusicComboTable combo range
+TrainerClassToMusicCombo table range
+PokemonBattleMusic table range
+sTrainterEncounterMusicParam table range
+PrizeMoneyTableRange
+
+ari
+- replace blaine
+- mentioned in text archive 519, 520, 533
+
+jaco
+- CLASS_PKMN_TRAINER_22
+
+fabi
+- CLASS_PKMN_TRAINER_23

@@ -1,3 +1,69 @@
+=== [gen9nationaldex] Untitled 13 ===
+
+Skarmory @ Rocky Helmet  
+Ability: Keen Eye  
+Tera Type: Steel  
+EVs: 252 HP / 252 Def / 4 Spe  
+Lax Nature  
+IVs: 0 Atk  
+- Iron Defense  
+- Stealth Rock  
+- Whirlwind  
+- Roost  
+
+Iron Crown @ Booster Energy  
+Ability: Quark Drive  
+Level: 62  
+Tera Type: Steel  
+EVs: 81 Def / 175 SpA / 252 Spe  
+Timid Nature  
+IVs: 28 HP / 20 Atk / 29 SpA  
+- Tachyon Cutter  
+- Psychic Noise  
+- Volt Switch  
+- Agility  
+
+Excadrill @ Focus Sash  
+Ability: Mold Breaker  
+Tera Type: Ground  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Jolly Nature  
+- Earthquake  
+- Scorching Sands  
+- Iron Defense  
+- Iron Head  
+
+Empoleon @ Leftovers  
+Ability: Torrent  
+Tera Type: Water  
+EVs: 252 HP / 76 Def / 30 SpA / 150 SpD  
+Modest Nature  
+- Iron Defense  
+- Scald  
+- Earthquake  
+- Flash Cannon  
+
+Corviknight @ Rocky Helmet  
+Ability: Mirror Armor  
+Tera Type: Flying  
+EVs: 252 HP / 252 Def / 4 SpD  
+Careful Nature  
+- Iron Defense  
+- Body Press  
+- Iron Head  
+- Roost  
+
+Mawile @ Mawilite  
+Ability: Intimidate  
+Tera Type: Steel  
+EVs: 92 HP / 252 Atk / 164 Spe  
+Adamant Nature  
+- Swords Dance  
+- Play Rough  
+- Iron Head  
+- Brick Break  
+
+
 === [gen9nationaldex] mod/mikan gym battle ===
 
 Skarmory @ Metal Coat  
