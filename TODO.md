@@ -37,7 +37,7 @@ Ike
 Godzilla
 - replace trainerdata 88, "Mickey"
 - pokemaniac sprite
-- CLASS_PKMN_TRAINER_19
+- CLASS_POKE_MANIAC
 
 Gooner (micah)
 - replace gym leader ???
@@ -46,7 +46,7 @@ Gooner (micah)
 
 ezlothecap
 - replace trainderdata 105, "Mickey"
-- CLASS_PKMN_TRAINER_20
+- CLASS_PKMN_TRAINER_19
 
 jabberwock
 - replace bug gym
@@ -69,29 +69,37 @@ azmi
 - beauty gen 2 sprite
 - "who is this diva?"
 - "Why must we put two queens against each other?"
-- CLASS_PKMN_TRAINER_21
+- CLASS_PKMN_TRAINER_20
 
 CYNTHIA
 - replace trainerdata 138, "Mickey"
 - recreate the b/w encounter
 - CLASS_CHAMPION_1
 
-### Adding Trainers:
+### [Adding Trainers](https://github.com/BluRosie/hg-engine/wiki/Adding-New-Trainer-Classes)
 add a CLASS CONSTANT to armips/include/constants.s
 
-increment bytereplacement values
+increment bytereplacement values:
 MainMusicComboTable combo range
 TrainerClassToMusicCombo table range
 PokemonBattleMusic table range
 sTrainterEncounterMusicParam table range
 PrizeMoneyTableRange
 
+
+
+
+
 ari
 - replace blaine
 - mentioned in text archive 519, 520, 533
 
 jaco
-- CLASS_PKMN_TRAINER_22
+- CLASS_PKMN_TRAINER_21
 
 fabi
-- CLASS_PKMN_TRAINER_23
+- CLASS_PKMN_TRAINER_22
+
+
+# Difficulty Notes
+try to make trainer battles and wild battles a little more difficult, 
