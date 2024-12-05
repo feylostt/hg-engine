@@ -89,3 +89,5 @@ tools/swav2swar.exe
 *.gbapal
 *.4bpp
 changelog
+
+TODO.md
