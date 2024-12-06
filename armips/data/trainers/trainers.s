@@ -3318,132 +3318,38 @@ trainerdata 105, "Mickey"
         ballseal 0
     endparty
 
-trainerdata 106, "Leah"
-    trainermontype TRAINER_DATA_TYPE_ITEMS | TRAINER_DATA_TYPE_MOVES | TRAINER_DATA_TYPE_ITEMS | TRAINER_DATA_TYPE_ABILITY | TRAINER_DATA_TYPE_BALL | TRAINER_DATA_TYPE_IV_EV_SET | TRAINER_DATA_TYPE_NATURE_SET | TRAINER_DATA_TYPE_SHINY_LOCK | TRAINER_DATA_TYPE_ADDITIONAL_FLAGS
-    trainerclass TRAINERCLASS_PKMN_TRAINER_DAWN_PT
-    nummons 6
-    item ITEM_HYPER_POTION
-    item ITEM_HYPER_POTION
+trainerdata 106, "Mickey"
+    trainermontype TRAINER_DATA_TYPE_NOTHING
+    trainerclass TRAINERCLASS_ACE_TRAINER_M
+    nummons 3
+    item ITEM_NONE
+    item ITEM_NONE
     item ITEM_NONE
     item ITEM_NONE
     aiflags F_PRIORITIZE_SUPER_EFFECTIVE | F_EVALUATE_ATTACKS | F_EXPERT_ATTACKS | 0
     battletype SINGLE_BATTLE
     endentry
 
-    party 106
+    party 107
         // mon 0
-        ivs 200
+        ivs 0
         abilityslot 0
-        level 50
-        pokemon SPECIES_SYLVEON
-        item ITEM_LEFTOVERS
-        move MOVE_CALM_MIND
-        move MOVE_REST
-        move MOVE_SLEEP_TALK
-        move MOVE_HYPER_VOICE
-        ability ABILITY_PIXELATE
-        ball ITEM_LOVE_BALL
-        setivs 31, 0, 10, 31, 31, 20
-        setevs, 252, 0, 0, 252, 4, 0
-        nature NATURE_MODEST
-        shinylock 0
-        additionalflags 0
+        level 10
+        pokemon SPECIES_BULBASAUR
         ballseal 0
 
         // mon 1
-        ivs 200
+        ivs 0
         abilityslot 0
-        level 50
-        pokemon SPECIES_MAWILE
-        item ITEM_LIFE_ORB
-        move MOVE_IRON_HEAD
-        move MOVE_PLAY_ROUGH
-        move MOVE_CRUNCH
-        move MOVE_SWORDS_DANCE
-        ability ABILITY_INTIMIDATE
-        ball ITEM_LOVE_BALL
-        setivs 31, 31, 20, 0, 10, 31
-        setevs 248, 252, 0, 0, 8, 0
-        nature NATURE_ADAMANT
-        shinylock 0
-        additionalflags 0
+        level 10
+        pokemon SPECIES_CHARMANDER
         ballseal 0
 
         // mon 2
-        ivs 200
+        ivs 0
         abilityslot 0
-        level 50
-        pokemon SPECIES_JIGGLYPUFF
-        item ITEM_EVIOLITE
-        move MOVE_REST
-        move MOVE_SING
-        move MOVE_ROLLOUT
-        move MOVE_POUND
-        ability ABILITY_COMPETITIVE
-        ball ITEM_LOVE_BALL
-        setivs 31, 31, 10, 0, 20, 31
-        setevs 252, 252, 0, 0, 4, 0
-        nature NATURE_ADAMANT
-        shinylock 0
-        additionalflags TRAINER_DATA_EXTRA_TYPE_NICKNAME
-        nickname _L, _u_, _d_, _w_, _i_, _g_, _I, _I, _I, _endstr
-        ballseal 0
-
-        // mon 3
-        ivs 200
-        abilityslot 0
-        level 50
-        pokemon SPECIES_GARDEVOIR
-        item ITEM_GARDEVOIRITE
-        move MOVE_CALM_MIND
-        move MOVE_HYPER_VOICE
-        move MOVE_DESTINY_BOND
-        move MOVE_WISH
-        ability ABILITY_SYNCRONIZE
-        ball ITEM_LOVE_BALL
-        setivs 31, 0, 10, 31, 20, 31
-        setevs 252, 0, 0, 252, 4, 0
-        nature NATURE_MODEST
-        shinylock 1
-        additionalflags 0
-        ballseal 0
-
-        // mon 4
-        ivs 200
-        abilityslot 0
-        level 50
-        pokemon SPECIES_PRIMARINA
-        item ITEM_THROAT_SPRAY
-        move MOVE_DRAINING_KISS
-        move MOVE_HYPER_VOICE
-        move MOVE_LIFE_DEW
-        move MOVE_MOONBLAST
-        ability ABILITY_LIQUID_VOICE
-        ball ITEM_LOVE_BALL
-        setivs 31, 0, 10, 31, 20, 31
-        setevs 252, 0, 0, 252, 4, 0
-        nature NATURE_MODEST
-        shinylock 0
-        additionalflags 0
-        ballseal 0
-
-        // mon 5
-        ivs 200
-        abilityslot 0
-        level 50
-        pokemon SPECIES_IRON_VALIANT
-        item ITEM_BOOSTER_ENERGY
-        move MOVE_AGILITY
-        move MOVE_SWORDS_DANCE
-        move MOVE_DRAIN_PUNCH
-        move MOVE_SPIRIT_BREAK
-        ability ABILITY_QUARK_DRIVE
-        ball ITEM_LOVE_BALL
-        setivs 31, 31, 31, 31, 31, 31
-        setevs 0, 252, 0, 0, 4, 252
-        nature NATURE_ADAMANT
-        shinylock 0
-        additionalflags 0
+        level 10
+        pokemon SPECIES_SQUIRTLE
         ballseal 0
     endparty
 
