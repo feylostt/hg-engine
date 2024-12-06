@@ -90,4 +90,4 @@ tools/swav2swar.exe
 *.4bpp
 changelog
 
-TODO.md
+notes/*
