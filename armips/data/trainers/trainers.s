@@ -7584,10 +7584,10 @@ trainerdata 244, "Lance"
         ballseal 0
     endparty
 
-trainerdata 245, "Will"
-    trainermontype TRAINER_DATA_TYPE_ITEMS | TRAINER_DATA_TYPE_MOVES
-    trainerclass TRAINERCLASS_ELITE_FOUR_WILL
-    nummons 5
+trainerdata 245, "Leah"
+    trainermontype TRAINER_DATA_TYPE_ITEMS | TRAINER_DATA_TYPE_MOVES | TRAINER_DATA_TYPE_ITEMS | TRAINER_DATA_TYPE_ABILITY | TRAINER_DATA_TYPE_BALL | TRAINER_DATA_TYPE_IV_EV_SET | TRAINER_DATA_TYPE_NATURE_SET | TRAINER_DATA_TYPE_SHINY_LOCK | TRAINER_DATA_TYPE_ADDITIONAL_FLAGS
+    trainerclass TRAINERCLASS_PKMN_TRAINER_DAWN_PT
+    nummons 6
     item ITEM_FULL_RESTORE
     item ITEM_FULL_RESTORE
     item ITEM_NONE
@@ -7600,61 +7600,73 @@ trainerdata 245, "Will"
         // mon 0
         ivs 250
         abilityslot 0
-        level 40
-        pokemon SPECIES_XATU
-        item ITEM_NONE
-        move MOVE_U_TURN
-        move MOVE_ME_FIRST
-        move MOVE_CONFUSE_RAY
-        move MOVE_PSYCHIC
+        level 53
+        pokemon SPECIES_SYLVEON
+        item ITEM_LEFTOVERS
+        move MOVE_CALM_MIND
+        move MOVE_REST
+        move MOVE_SLEEP_TALK
+        move MOVE_HYPER_VOICE
         ballseal 0
 
         // mon 1
         ivs 250
-        abilityslot 0
-        level 41
-        pokemon SPECIES_JYNX
-        item ITEM_NONE
-        move MOVE_DOUBLE_SLAP
-        move MOVE_LOVELY_KISS
-        move MOVE_ICE_PUNCH
-        move MOVE_PSYCHIC
+        abilityslot 1
+        level 54
+        pokemon SPECIES_MAWILE
+        item ITEM_LIFE_ORB
+        move MOVE_IRON_HEAD
+        move MOVE_PLAY_ROUGH
+        move MOVE_CRUNCH
+        move MOVE_SWORDS_DANCE
         ballseal 0
 
         // mon 2
         ivs 250
         abilityslot 0
-        level 41
-        pokemon SPECIES_EXEGGUTOR
-        item ITEM_NONE
-        move MOVE_REFLECT
-        move MOVE_HYPNOSIS
-        move MOVE_EGG_BOMB
-        move MOVE_PSYCHIC
+        level 52
+        pokemon SPECIES_TINKATON
+        item ITEM_LIFE_ORB
+        move MOVE_GIGATON_HAMMER
+        move MOVE_PLAY_ROUGH
+        move MOVE_SWORDS_DANCE
+        move MOVE_PROTECT
         ballseal 0
 
         // mon 3
         ivs 250
-        abilityslot 32
-        level 41
-        pokemon SPECIES_SLOWBRO
-        item ITEM_NONE
-        move MOVE_CURSE
-        move MOVE_AMNESIA
-        move MOVE_WATER_PULSE
-        move MOVE_PSYCHIC
+        abilityslot 0
+        level 55
+        pokemon SPECIES_GARDEVOIR
+        item ITEM_GARDEVOIRITE
+        move MOVE_CALM_MIND
+        move MOVE_DRAINING_KISS
+        move MOVE_HYPER_VOICE
+        move MOVE_WISH
         ballseal 0
 
         // mon 4
         ivs 250
-        abilityslot 32
-        level 42
-        pokemon SPECIES_XATU
-        item ITEM_SITRUS_BERRY
-        move MOVE_AERIAL_ACE
-        move MOVE_OMINOUS_WIND
-        move MOVE_CONFUSE_RAY
-        move MOVE_PSYCHIC
+        abilityslot 2
+        level 52
+        pokemon PRIMARINA
+        item ITEM_ASSAULT_VEST
+        move MOVE_HYPER_VOICE
+        move MOVE_DRAINING_KISS
+        move MOVE_ICE_BEAM
+        move MOVE_MOONBLAST
+        ballseal 0
+
+        // mon 5
+        ivs 255
+        abilityslot 0
+        level 55
+        pokemon SPECIES_IRON_VALIANT
+        item ITEM_BOOSTER_ENERGY
+        move MOVE_CLOSE_COMBAT
+        move MOVE_SWORDS_DANCE
+        move MOVE_DRAIN_PUNCH
+        move MOVE_SPIRIT_BREAK
         ballseal 0
     endparty
 
@@ -23609,9 +23621,9 @@ trainerdata 701, "Lance"
         ballseal 0
     endparty
 
-trainerdata 702, "Will"
+trainerdata 702, "Leah"
     trainermontype TRAINER_DATA_TYPE_ITEMS | TRAINER_DATA_TYPE_MOVES
-    trainerclass TRAINERCLASS_ELITE_FOUR_WILL
+    trainerclass TRAINERCLASS_PKMN_TRAINER_DAWN_PT
     nummons 6
     item ITEM_FULL_RESTORE
     item ITEM_FULL_RESTORE
@@ -23624,74 +23636,74 @@ trainerdata 702, "Will"
     party 702
         // mon 0
         ivs 250
-        abilityslot 32
-        level 58
-        pokemon SPECIES_BRONZONG
-        item ITEM_NONE
-        move MOVE_REFLECT
-        move MOVE_PAYBACK
-        move MOVE_GRAVITY
-        move MOVE_PSYCHIC
+        abilityslot 0
+        level 60
+        pokemon SPECIES_SYLVEON
+        item ITEM_LEFTOVERS
+        move MOVE_CALM_MIND
+        move MOVE_REST
+        move MOVE_SLEEP_TALK
+        move MOVE_HYPER_VOICE
         ballseal 0
 
         // mon 1
         ivs 250
-        abilityslot 0
-        level 60
-        pokemon SPECIES_JYNX
-        item ITEM_NONE
-        move MOVE_FAKE_TEARS
-        move MOVE_LOVELY_KISS
-        move MOVE_BLIZZARD
-        move MOVE_DREAM_EATER
+        abilityslot 1
+        level 62
+        pokemon SPECIES_MAWILE
+        item ITEM_MAWILITE
+        move MOVE_IRON_HEAD
+        move MOVE_PLAY_ROUGH
+        move MOVE_CRUNCH
+        move MOVE_SWORDS_DANCE
         ballseal 0
 
         // mon 2
         ivs 250
         abilityslot 0
-        level 59
-        pokemon SPECIES_GRUMPIG
-        item ITEM_NONE
-        move MOVE_CONFUSE_RAY
-        move MOVE_SIGNAL_BEAM
-        move MOVE_POWER_GEM
-        move MOVE_PSYCHIC
+        level 62
+        pokemon SPECIES_TINKATON
+        item ITEM_LIFE_ORB
+        move MOVE_GIGATON_HAMMER
+        move MOVE_PLAY_ROUGH
+        move MOVE_SWORDS_DANCE
+        move MOVE_PROTECT
         ballseal 0
 
         // mon 3
         ivs 250
-        abilityslot 32
-        level 60
-        pokemon SPECIES_SLOWBRO
-        item ITEM_NONE
-        move MOVE_CURSE
-        move MOVE_AMNESIA
-        move MOVE_BODY_SLAM
-        move MOVE_PSYCHIC
+        abilityslot 0
+        level 65
+        pokemon SPECIES_GARDEVOIR
+        item ITEM_GARDEVOIRITE
+        move MOVE_CALM_MIND
+        move MOVE_DRAINING_KISS
+        move MOVE_HYPER_VOICE
+        move MOVE_WISH
         ballseal 0
 
         // mon 4
         ivs 250
-        abilityslot 0
-        level 61
-        pokemon SPECIES_GARDEVOIR
-        item ITEM_NONE
-        move MOVE_FOCUS_BLAST
-        move MOVE_CHARGE_BEAM
-        move MOVE_CALM_MIND
-        move MOVE_PSYCHIC
+        abilityslot 2
+        level 63
+        pokemon PRIMARINA
+        item ITEM_ASSAULT_VEST
+        move MOVE_HYPER_VOICE
+        move MOVE_DRAINING_KISS
+        move MOVE_ICE_BEAM
+        move MOVE_MOONBLAST
         ballseal 0
 
         // mon 5
-        ivs 250
-        abilityslot 32
-        level 62
-        pokemon SPECIES_XATU
-        item ITEM_SITRUS_BERRY
-        move MOVE_QUICK_ATTACK
-        move MOVE_SHADOW_BALL
-        move MOVE_CONFUSE_RAY
-        move MOVE_PSYCHIC
+        ivs 255
+        abilityslot 0
+        level 65
+        pokemon SPECIES_IRON_VALIANT
+        item ITEM_BOOSTER_ENERGY
+        move MOVE_CLOSE_COMBAT
+        move MOVE_SWORDS_DANCE
+        move MOVE_DRAIN_PUNCH
+        move MOVE_SPIRIT_BREAK
         ballseal 0
     endparty
 
