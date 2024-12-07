@@ -7649,7 +7649,7 @@ trainerdata 245, "Leah"
         ivs 250
         abilityslot 2
         level 52
-        pokemon PRIMARINA
+        pokemon SPECIES_PRIMARINA
         item ITEM_ASSAULT_VEST
         move MOVE_HYPER_VOICE
         move MOVE_DRAINING_KISS
@@ -23686,7 +23686,7 @@ trainerdata 702, "Leah"
         ivs 250
         abilityslot 2
         level 63
-        pokemon PRIMARINA
+        pokemon SPECIES_PRIMARINA
         item ITEM_ASSAULT_VEST
         move MOVE_HYPER_VOICE
         move MOVE_DRAINING_KISS
