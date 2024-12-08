@@ -737,7 +737,7 @@ trainerdata 21, "Jabber"
         move MOVE_BUG_BITE
         move MOVE_SEISMIC_TOSS
         move MOVE_FOCUS_ENERGY
-        move MOVE_VISE_GRIP
+        move MOVE_VICE_GRIP
         ballseal 0
 
         // mon 1
@@ -3671,7 +3671,7 @@ trainerdata 107, "Bruno"
         ivs 150
         abilityslot 0
         level 55
-        pokemon SPECIES_USALUNA
+        pokemon SPECIES_URSALUNA
         item ITEM_FLAME_ORB
         move MOVE_FACADE
         move MOVE_HEADLONG_RUSH
