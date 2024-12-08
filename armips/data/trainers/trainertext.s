@@ -458,9 +458,9 @@ _0364: // Trainer 117
     trainertextentry 117, TEXT_DEFEATED_IN_OVERWORLD, "Dragons are weak against\nDragon-type moves.\n"
 
 _0370: // Trainer 245
-    trainertextentry 245, TEXT_LAST_MON_SENT_OUT, "We Psychics don’t give up even when\nwe’re down to the last Pokémon.\rThat’s what makes us so formidable!\n"
+    trainertextentry 245, TEXT_LAST_MON_SENT_OUT, "It's not over til it's over!\n"
     trainertextentry 245, TEXT_LAST_MON_CRITICAL, "Until we hit zero, our power is limitless.\nI’m not giving up yet!\n"
-    trainertextentry 245, TEXT_DEFEATED_IN_BATTLE, "I... I can’t...believe it...\n"
+    trainertextentry 245, TEXT_DEFEATED_IN_BATTLE, "I... I can’t...believe it...\nGood game, birthday girl!\n"
 
 _037C: // Trainer 247
     trainertextentry 247, TEXT_LAST_MON_SENT_OUT, "One Pokémon left?\rHa ha ha! I’ve been counting on this\none from the very beginning!\n"
@@ -483,9 +483,9 @@ _03A0: // Trainer 244
     trainertextentry 244, TEXT_DEFEATED_IN_BATTLE, "...It’s over.\rBut it’s an odd feeling. I’m not angry\nthat I lost. In fact, I feel happy.\rHappy that I witnessed the rise\nof a great new Champion!\n"
 
 _03AC: // Trainer 702
-    trainertextentry 702, TEXT_LAST_MON_SENT_OUT, "We Psychics don’t give up even when\nwe’re down to the last Pokémon.\rThat’s what makes us so formidable!\n"
-    trainertextentry 702, TEXT_LAST_MON_CRITICAL, "Until we hit zero, our power is limitless.\nI’m not giving up yet!\n"
-    trainertextentry 702, TEXT_DEFEATED_IN_BATTLE, "I... I can’t...believe it...\n"
+    trainertextentry 245, TEXT_LAST_MON_SENT_OUT, "It's not over til it's over!\n"
+    trainertextentry 245, TEXT_LAST_MON_CRITICAL, "Until we hit zero, our power is limitless.\nI’m not giving up yet!\n"
+    trainertextentry 245, TEXT_DEFEATED_IN_BATTLE, "I... I can’t...believe it...\nGood game, birthday girl!\n"
 
 _03B8: // Trainer 703
     trainertextentry 703, TEXT_LAST_MON_SENT_OUT, "One Pokémon left?\rHa ha ha! I’ve been counting on this\none from the very beginning!\n"
